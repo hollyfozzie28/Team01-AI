@@ -1,0 +1,15 @@
+{
+    "name": "Pay someone",
+    "steps": [
+        {
+            "01": "Log on and select Payments from your account.",
+            "02": "Select Choose who to pay. Then select Pay new from the top of the screen.",
+            "03": "Choose Pay a person or company.",
+            "04": "Enter the payee’s name, account number and sort code. Select Continue and we’ll confirm their details.",
+            "05": "Enter an amount. You can also add a reference if you like. For future-dated payments, enter a date here.",
+            "06": "Select Continue. Check the details are right, then select Confirm. Sometimes we may ask you for more information about the payment. ",
+            "07": "Enter your password, or use your fingerprint or Face ID.",
+            "08": "All done – you can share or save your payment receipt, and you can pay them again anytime."
+        }
+    ]
+}

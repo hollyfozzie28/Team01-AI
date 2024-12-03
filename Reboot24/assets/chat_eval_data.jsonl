@@ -1,0 +1,12 @@
+{"query": "Where can I find my bank statement?", "truth": "view or download statement"}
+{"query": "How can I send money to my friend on my mobile app?", "truth": "pay someone new"}
+{"query": "I've had my credit card stolen, what do I do?", "truth": "report card lost or stolen"}
+{"query": "I think I've lost my debit card, now what?", "truth": "report card lost or stolen"}
+{"query": "I want to move money between my current account and savings account, how do I do this?", "truth": "transfer between accounts"}
+{"query": "can I cancel my spotify subscription?", "truth": "cancel direct debit"}
+{"query": "how do I cancel a direct debit?", "truth": "cancel direct debit"}
+{"query": "I've got a new phone number, how do I update it with Lloyds bank?", "truth": "change phone number"}
+{"query": "I want to update my mobile number", "truth": "change phone number"}
+{"query": "I don't want my statements via post anymore, how do I opt out of this?", "truth": "paper free statements"}
+{"query": "can I opt infor paperless correspondence", "truth": "paper free statements"}
+{"query": "I need to close my savings account, how can I do this?", "truth": "close savings accounts"}
